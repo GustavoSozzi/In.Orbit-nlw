@@ -1,5 +1,11 @@
 ## Tecnologias Utilizadas
 
+# NLW Pocket JS React Frontend - in.orbit
+
+
+Este repositório contém o frontend da aplicação **NLW Pocket 1.0 - in.orbit**, desenvolvida utilizando React e Tailwind CSS e TypeScript.
+
+
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/docs/getting-started.html)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/docs)
